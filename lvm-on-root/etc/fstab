@@ -1,0 +1,8 @@
+# == IMPORTANT ==============================================================
+# The 3 lines below need to be *uncommented* and adjusted for your system
+# ===========================================================================
+
+UUID=f2c8e551-6dfe-4585-9449-f92c1a58f957	none		swap		sw			0 0
+/dev/king500/funtoo-gnome	/		ext4		noatime			0 1
+
+# vim: ts=8 sw=8 noet
