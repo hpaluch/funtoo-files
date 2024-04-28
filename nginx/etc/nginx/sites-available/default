@@ -1,0 +1,12 @@
+# default global http server, from: https://www.nginx.com/resources/wiki/start/topics/examples/server_blocks/
+server {
+    listen 80 default_server;
+    server_name _; # This is just an invalid value which will never trigger on a real hostname.
+    server_name_in_redirect off;
+	access_log /var/log/nginx/default.access_log main;
+	error_log /var/log/nginx/default.error_log info;
+
+	root /usr/share/nginx/html;
+	index index.html;
+}
+
