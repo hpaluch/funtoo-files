@@ -1,0 +1,12 @@
+        arch: x86-64bit                                                                                            
+       build: next                                                                                                 
+     subarch: generic_64                                                                                           
+      flavor: desktop
+     mix-ins: gnome                                                                                                
+     mix-ins: gfxcard-radeon
+     mix-ins: gfxcard-vmware
+     mix-ins: gfxcard-kvm
+     mix-ins: gfxcard-amdgpu
+     mix-ins: gfxcard-intel
+     mix-ins: gfxcard-nouveau
+
