@@ -1,0 +1,8 @@
+# == IMPORTANT ==============================================================
+# The 3 lines below need to be *uncommented* and adjusted for your system
+# ===========================================================================
+
+UUID=2f7ba7e5-4edd-4d38-ba5e-f759f9115b5c	none		swap		sw			0 0
+UUID=64021de2-1f63-4d4a-b3e6-38ba996b3c74	/		ext4		noatime			0 1
+
+# vim: ts=8 sw=8 noet

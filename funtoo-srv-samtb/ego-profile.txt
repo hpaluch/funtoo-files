@@ -1,0 +1,8 @@
+=== Enabled Profiles: ===
+
+        arch: x86-64bit
+       build: next
+     subarch: generic_64
+      flavor: core
+     mix-ins: (not set)
+

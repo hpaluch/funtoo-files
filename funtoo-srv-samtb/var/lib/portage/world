@@ -1,0 +1,7 @@
+app-admin/sudo
+app-misc/mc
+app-misc/tmux
+net-firewall/nftables
+sys-boot/grub
+sys-kernel/debian-sources
+sys-kernel/linux-firmware

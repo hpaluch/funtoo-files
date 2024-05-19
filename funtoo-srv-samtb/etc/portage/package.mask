@@ -1,0 +1,5 @@
+# workaround for build error: 
+# /usr/lib/gcc/x86_64-pc-linux-gnu/12.3.0/../../../../x86_64-pc-linux-gnu/bin/ld:
+#  ../lib/libncurses.a(init_keytry.o): in function `_nc_init_keytry':
+#  init_keytry.c:(.text+0x10e): undefined reference to `_nc_trace_tries'
+>=sys-libs/ncurses-6.5_p20240518

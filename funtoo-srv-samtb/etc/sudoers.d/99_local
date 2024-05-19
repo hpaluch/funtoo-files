@@ -1,0 +1,4 @@
+# disable DNS lookups on each sudo invocation:
+Defaults !fqdn
+# become root without password:
+%wheel ALL=(ALL:ALL) NOPASSWD: ALL
