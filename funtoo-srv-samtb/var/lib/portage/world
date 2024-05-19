@@ -1,7 +1,12 @@
 app-admin/sudo
+app-admin/sysstat
 app-misc/mc
 app-misc/tmux
+dev-util/strace
 net-firewall/nftables
 sys-boot/grub
 sys-kernel/debian-sources
+sys-kernel/genkernel
 sys-kernel/linux-firmware
+sys-kernel/vanilla-sources
+sys-process/lsof

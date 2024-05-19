@@ -29,7 +29,7 @@ gf=$root/etc/portage/make.conf
 	exit 1
 }
 
-for i in `find etc var -type f`
+for i in `find etc usr var -type f`
 do
 	src="$i"
 	src=$(echo "$src" | sed 's/dot\././')
