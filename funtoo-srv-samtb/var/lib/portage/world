@@ -2,9 +2,12 @@ app-admin/sudo
 app-admin/sysstat
 app-misc/mc
 app-misc/tmux
+dev-util/bcc
 dev-util/strace
 net-firewall/nftables
+sys-apps/smartmontools
 sys-boot/grub
+sys-fs/ncdu
 sys-kernel/debian-sources
 sys-kernel/genkernel
 sys-kernel/linux-firmware
