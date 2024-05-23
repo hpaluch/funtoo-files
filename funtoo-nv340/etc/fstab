@@ -1,0 +1,9 @@
+# == IMPORTANT ==============================================================
+# The 3 lines below need to be *uncommented* and adjusted for your system
+# ===========================================================================
+
+# Funtoo NV340 on Kingston 200 (former suse)
+UUID=6253a1a0-dcaf-4c91-925d-8c4d8b4b083e	none	swap	sw	0 0
+UUID=fbf46c93-cc41-446e-b7d9-5ed30ff21866	/	ext4	noatime	0 1
+
+# vim: ts=8 sw=8 noet

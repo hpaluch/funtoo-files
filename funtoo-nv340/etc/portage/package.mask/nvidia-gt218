@@ -1,0 +1,3 @@
+# Last usable binary driver for GT218 is 340, so mask anything > 340
+>=x11-drivers/nvidia-drivers-341.0.0
+>=x11-drivers/nvidia-kernel-modules-341.0.0
